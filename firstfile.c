@@ -10,5 +10,5 @@ printf("addding third commit with file added"):
 
 
 Add the statement to traing branch
-
+#add stmat in training
 }
